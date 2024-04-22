@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(250, 240, 206);
+}
+.container{
+    width: 100%;
+    padding: 20px 0px;
+    height: 100vh;
+}
+input{
+    border-radius: 10px;
+    margin: 10px;
+    padding: 8px 20px;
+}
+button{
+    color: white;
+    cursor: pointer;
+    padding: 8px 20px;
+    border-radius: 10px;
+    background-color: rgb(140, 146, 229);
+
+}
+p{
+    padding: 10px;
+    color: rgb(90, 4, 4);
+    font-weight: bold;
+}
